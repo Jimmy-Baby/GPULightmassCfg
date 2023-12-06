@@ -344,3 +344,4 @@ ASALocalRun/
 
 # Ignore user's workspace
 workspace/
+*.DotSettings
